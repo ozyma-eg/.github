@@ -1,5 +1,11 @@
 # OZYMA
 
+## Projects
+
+ - Alrehila
+ - Fixware
+ - CSD
+
 ## Founders
  - Ali Mandour
  - Mohamed ElKady (Nova Team)
